@@ -3,12 +3,12 @@
     <channel>
         <title>Dockside</title>
         <item>
-            <title>1.5.0</title>
-            <pubDate>Wed, 23 Oct 2024 11:56:50 +0100</pubDate>
-            <sparkle:version>1.5.0</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <title>1.5.1</title>
+            <pubDate>Thu, 24 Oct 2024 11:50:49 +0100</pubDate>
+            <sparkle:version>1.5.1</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PrajwalSD/Dockside/releases/download/v1.5.0/Dockside.dmg" length="4095219" type="application/octet-stream" sparkle:edSignature="W3wpAMYTs5tr0GAMOE2hjJwDhcHtfh2LOmygmfZK4T4k7Y3Ee2Q7JrvuBPuJIxBq1qTancklmAd9x1Gr+idJDg=="/>
+            <enclosure url="https://github.com/PrajwalSD/Dockside/releases/download/v1.5.1/Dockside.dmg" length="4141724" type="application/octet-stream" sparkle:edSignature="jekjmHYeL4eKmUgaLzl9Ho9Q821TWzVaiSeGg43F5bCW7UkmNmb0ExtJSov3CukYCVWZ76LUk6zKauhFiIVpDg=="/>
         </item>
     </channel>
 </rss>
