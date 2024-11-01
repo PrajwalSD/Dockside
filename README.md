@@ -10,7 +10,7 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
 
 ---
 
-🗣️ **ProductHunt:** [![Dockside on Product Hunt]([https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=410992&theme=light](https://www.producthunt.com/posts/dockside-app-for-mac?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dockside&#0045;app&#0045;for&#0045;mac))](https://www.producthunt.com/posts/dockside-app-for-mac)  
+🗣️ **ProductHunt:** [![Dockside on Product Hunt](https://www.producthunt.com/posts/dockside-app-for-mac)  
 🗣️ **Check us out on Reddit**: [r/macapps – Dockside: A Simple File Shelf Beside the Dock](https://www.reddit.com/r/macapps/comments/1gadeow/introducing_dockside_a_simple_file_shelf_beside/)
 
 ---
@@ -22,10 +22,10 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
 ## Features
 
 - **📂 Drag and Drop**: Add almost anything onto the shelf—files, folders, images, docs, text snippets, or even apps for easy access and organisation.
-- **🛠️ **Support for all Dock positions** - including hidden mode. 
+- **🛠️ Support for all Dock positions**: Left/Right/Bottom, including hidden mode and full screen app mode. 
 - **🌐 Local & External Source Support**: Add web content with automatic downloads for target files in links.
-- **📁 Quick Access to Favorites**: Access favorite folders, recent Screenshots, and Downloads by default, with customisation options. Easily configure this area to be your work folder shelf or the "Recents" shelf, giving you instant access to what you need right inside of the Dockside.
-- **📝 Text Note Creation**: Quickly create and save text notes.
+- **📁 Quick Access to Favorites**: Access favorite folders, recent Screenshots, and Downloads by default. Easily configure this area to be your work folder shelf or the "Recents" shelf, giving you instant access to what you need right inside of the Dockside.
+- **📝 Text Note Creation**: Quickly create and save text notes, using native TextEdit. 
 - **📋 Clipboard Integration**: Includes clipboard integration with optional screenshot monitoring and iCloud device support.
 - **📌 Flexible Storage Options**: Store items as references/shortcuts or as copies for later use.
 - **🗑️ Item Removal**: Drag items out to remove them—either permanently or temporarily.
@@ -35,9 +35,10 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
 - **🖥️ Multi-Display Support**: Works across multiple desktops, monitors, in full-screen app mode, and hidden Dock mode (follows macOS Dock positioning).
 - **🛠️ Finder Options in Context Menu**: Access useful Finder options, including:
     - Copy
+    - Move
     - Copy Contents
     - Share
-    - Open With
+    - Open With...
     - Rename
     - Show in Finder
     - Compress as Zip file...
