@@ -21,9 +21,10 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
 
 ## Features
 
-- **📂 Drag and Drop**: Add almost anything onto the shelf—files, folders, images, docs, text snippets, or even apps for easy access and organization.
+- **📂 Drag and Drop**: Add almost anything onto the shelf—files, folders, images, docs, text snippets, or even apps for easy access and organisation.
+- **🛠️ **Support for all Dock positions** - including hidden mode. 
 - **🌐 Local & External Source Support**: Add web content with automatic downloads for target files in links.
-- **📁 Quick Access to Favorites**: Access favorite folders, recent Screenshots, and Downloads by default, with customization options.
+- **📁 Quick Access to Favorites**: Access favorite folders, recent Screenshots, and Downloads by default, with customisation options. Easily configure this area to be your work folder shelf or the "Recents" shelf, giving you instant access to what you need right inside of the Dockside.
 - **📝 Text Note Creation**: Quickly create and save text notes.
 - **📋 Clipboard Integration**: Includes clipboard integration with optional screenshot monitoring and iCloud device support.
 - **📌 Flexible Storage Options**: Store items as references/shortcuts or as copies for later use.
@@ -39,8 +40,11 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
     - Open With
     - Rename
     - Show in Finder
-    - Compress as Zip file..
+    - Compress as Zip file...
+    - Remove Image Metadata...
+    - Reduce size...
     - (and many more coming...)
+- **⚡ Image/Video/PDF Size Reduction** — effortlessly reduce file sizes with a single click for optimized storage and sharing. Requires Clop app to do this and is integrated right into the Dockside with support for bulk operations.
 - **🕒 File and Notes History**: Quickly access recent file and notes history.
 - **⌨️ Keyboard Shortcuts**: Similar to Finder for efficient navigation and file management.
 - **🖱️ Intuitive Mouse Actions**: Supports hover, single-click, double-click, and right-click.
