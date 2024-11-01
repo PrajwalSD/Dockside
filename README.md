@@ -73,4 +73,4 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
 - **🚀 Intel and M-Series Macs**
 - **🍏 Written in Swift**: Utilizes native Apple APIs for optimized performance.
 
-> **ℹ️ Note**: Currently, only bottom Dock positioning is supported. Left and right positioning options are coming soon.
+
