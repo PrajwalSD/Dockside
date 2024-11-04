@@ -10,7 +10,7 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
 
 ---
 
-🗣️ **ProductHunt:** [![Dockside on Product Hunt](https://www.producthunt.com/posts/dockside-app-for-mac)  
+🗣️ **ProductHunt:** [Dockside on Product Hunt](https://www.producthunt.com/posts/dockside-app-for-mac)  
 🗣️ **Check us out on Reddit**: [r/macapps – Dockside: A Simple File Shelf Beside the Dock](https://www.reddit.com/r/macapps/comments/1gadeow/introducing_dockside_a_simple_file_shelf_beside/)
 
 ---
