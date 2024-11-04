@@ -1,14 +1,14 @@
-as<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Dockside</title>
         <item>
-            <title>1.6.6</title>
-            <pubDate>Mon, 04 Nov 2024 00:01:19 +0000</pubDate>
-            <sparkle:version>1.6.6</sparkle:version>
-            <sparkle:shortVersionString>1.6.6</sparkle:shortVersionString>
+            <title>1.6.7</title>
+            <pubDate>Mon, 04 Nov 2024 00:29:48 +0000</pubDate>
+            <sparkle:version>1.6.7</sparkle:version>
+            <sparkle:shortVersionString>1.6.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PrajwalSD/Dockside/releases/download/v1.6.6/Dockside.dmg" length="4406491" type="application/octet-stream" sparkle:edSignature="NvDAOvyBrzWxA+zD5SrSjn2+Xg1Ud4lRibXfuMi+5ZI6HII2RiMSN8HJ1bY9Z9HoqcpWuHuWIYUWopUnVoUIAQ=="/>
+            <enclosure url="https://github.com/PrajwalSD/Dockside/releases/download/v1.6.7/Dockside.dmg" length="4406997" type="application/octet-stream" sparkle:edSignature="eTWXoMEUE+dWiFWpkFnjacZb9xpUvXSsRJaceAGSvO6iWxpmLdc+228bPgifDe9CKNMp5mG9oxfcOaJJ5yIBBw=="/>
         </item>
     </channel>
 </rss>
