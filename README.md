@@ -32,7 +32,7 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
 - **🔍 Scrollable & QuickLook Previews**: Custom scrollable previews for text files and QuickLook previews for other file types, allowing quick access.
 - **⚡ Quick Action Buttons**: One-click access to common tasks for faster workflows.
 - **👁️ Visual Item Tracking**: Visual cues help you remember items recently added.
-- **🖥️ Multi-Display Support**: Works across multiple desktops, monitors, in full-screen app mode, and hidden Dock mode (follows macOS Dock positioning).
+- **🖥️ Multi-Display Support**: Works across multiple desktops, monitors, in full-screen app mode, and hidden Dock mode (follows macOS Dock positioning). Ability to pin Dockside to a specific monitor is also available.
 - **🛠️ Finder Options in Context Menu**: Access useful Finder options, including:
     - Copy
     - Move
@@ -43,11 +43,11 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
     - Show in Finder
     - Compress as Zip file...
     - Remove Image Metadata...
-    - Reduce size...
+    - Reduce size (via Clop app)...
     - (and many more coming...)
 - **⚡ Image/Video/PDF Size Reduction** — effortlessly reduce file sizes with a single click for optimized storage and sharing. Requires Clop app to do this and is integrated right into the Dockside with support for bulk operations.
 - **🕒 File and Notes History**: Quickly access recent file and notes history.
-- **⌨️ Keyboard Shortcuts**: Similar to Finder for efficient navigation and file management.
+- **⌨️ Keyboard Shortcuts and HotKeys**: Similar to Finder for efficient navigation and file management. Manage app using customisable keyboard shortcuts and hotkeys.
 - **🖱️ Intuitive Mouse Actions**: Supports hover, single-click, double-click, and right-click.
 - **🧹 Automatic Housekeeping**: Maintains recent files, screenshots, and downloads, allowing virtually unlimited items without clutter.
 - **📐 Responsive Design**: Adapts to different screen sizes and adjusts to Dock size changes.
@@ -61,6 +61,7 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
     - Item limits
     - App ignore list
 - **🌐 Offline-First Design**: Works entirely offline (one-time license check only) with no data collection.
+- **⚙️ Third-party apps can talk to Dockside**: Add items to the shelf: `open -a Dockside.app /path/to/file` 
 - **💸 Lifetime License**: One-time fee of $5.99 for up to 3 devices, with lifetime updates and support.
 - **🔐 Privacy-Focused**: No background processes, servers, or tracking. Dockside is focused on providing a simple, efficient tool for managing your files while protecting your privacy.
   
@@ -69,7 +70,7 @@ Dockside is a lightweight file shelf app for macOS that sits discreetly next to 
 ## Trial and Purchase
 
 - **⏳ 14-Day Free Trial**: Try Dockside with a 14-day free trial.
-- **💵 Lifetime License**: After the trial, purchase a lifetime license for $5.99 (covers up to 3 devices).
+- **💵 Lifetime License**: After the trial, purchase a lifetime license for $5.99 (up to 3 devices).
 - **🚫 No Subscriptions**: A one-time payment, just like classic Mac apps.
 
 ## Compatibility
