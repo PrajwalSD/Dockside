@@ -3,6 +3,7 @@
     <channel>
         <title>Dockside</title>
         <item>
+		<sparkle:fullReleaseNotesLink>https://github.com/PrajwalSD/Dockside/releases</sparkle:fullReleaseNotesLink>
         <sparkle:releaseNotesLink>https://hachipoo.com/Changelog.html</sparkle:releaseNotesLink>            <title>1.8.7</title>
             <pubDate>Wed, 20 Nov 2024 19:28:12 +0000</pubDate>
             <sparkle:version>1.8.7</sparkle:version>
