@@ -3,12 +3,12 @@
     <channel>
         <title>Dockside</title>
         <item>
-        <sparkle:fullReleaseNotesLink>https://github.com/PrajwalSD/Dockside/releases</sparkle:fullReleaseNotesLink>        <sparkle:releaseNotesLink>https://hachipoo.com/Changelog.html</sparkle:releaseNotesLink>            <title>1.9.7</title>
-            <pubDate>Tue, 03 Dec 2024 21:23:46 +0000</pubDate>
-            <sparkle:version>1.9.7</sparkle:version>
-            <sparkle:shortVersionString>1.9.7</sparkle:shortVersionString>
+        <sparkle:fullReleaseNotesLink>https://github.com/PrajwalSD/Dockside/releases</sparkle:fullReleaseNotesLink>        <sparkle:releaseNotesLink>https://hachipoo.com/Changelog.html</sparkle:releaseNotesLink>            <title>1.9.8</title>
+            <pubDate>Tue, 03 Dec 2024 23:10:45 +0000</pubDate>
+            <sparkle:version>1.9.8</sparkle:version>
+            <sparkle:shortVersionString>1.9.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PrajwalSD/Dockside/releases/download/v1.9.7/Dockside.dmg" length="4922074" type="application/octet-stream" sparkle:edSignature="EQnnMiQV7tZfiKuf2rqXRzoXpAdwgDUhsLvE5Iv2VdZI1PFtOvqC9Qfw1qf+TO3V3rq4+rt5bv6KMqCy3c4NAg=="/>
+            <enclosure url="https://github.com/PrajwalSD/Dockside/releases/download/v1.9.8/Dockside.dmg" length="4922045" type="application/octet-stream" sparkle:edSignature="NSuEAOiQMTogtCQQSI7/wRsqBqxd/wn5KroWViVa75rflNqm8JNG6FgrEtvI6kwQ/OFSqVt0KMAK3FnA/2tdDQ=="/>
         </item>
     </channel>
 </rss>
