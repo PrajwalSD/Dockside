@@ -1,0 +1,35 @@
+/* Window */
+"F0z-JX-Cv5.title" = "Dockside";
+
+/* Developer intro */
+"ykd-Ha-MET.title" = "Hi, I'm Prajwal, the developer behind this app! 😊 I love making lightweight and useful apps like Dockside, a streamlined file shelf app designed to keep your files and folders at your fingertips, beside your Dock. Dockside doesn't collect or share any of your data. It only uses the internet for a license check, and after that, everything stays on your device. 🔒 Your privacy is as important to me as it is to you! If you have any questions or feedback, feel free to reach out — I'd love to hear from you. Thanks for supporting indie development! 🙏 ";
+
+/* If you've already purchased... */
+"qCx-gx-gNH.title" = "If you've already purchased a license, please activate it now.";
+
+/* Start your free trial... */
+"a8J-uc-r8u.title" = "Start your free trial to explore all features with no limitations.";
+
+/* OR */
+"4Zo-jr-tS9.title" = "OR";
+
+/* Activate License button */
+"OAs-Gv-cZL.title" = "Activate License";
+
+/* Start Your Free 14-Day Trial button */
+"EE7-ae-EEq.title" = "Start Your Free 14-Day Trial";
+
+/* Buy Lifetime License button (fixed typo: Liftime -> Lifetime) */
+"BCA-dW-GBb.title" = "Buy Lifetime License Now ($5.99)";
+
+/* Thank you for choosing Dockside */
+"spQ-rB-db1.title" = "Thank you for choosing Dockside, Welcome.";
+
+/* Email button */
+"lWc-sf-9dz.title" = "hachipoo.apps@gmail.com";
+
+/* Copyright */
+"9xW-Yx-wtn.title" = "Copyright © 2026 Hachipoo Apps & Dockside. All rights reserved.";
+
+/* No subscriptions / indie support */
+"ecK-Dd-x3X.title" = "There are no subscriptions, no hidden fees – just a simple one-time purchase.\nThis app is lovingly crafted by an indie developer, and your support helps keep independent development alive";
