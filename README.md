@@ -1,8 +1,8 @@
 # Dockside App
 
-Welcome to the **Dockside App**! A Simple File Shelf Beside the Dock.
+Welcome to the **Dockside App**!
 
-Dockside is a lightweight file shelf app for macOS that sits discreetly next to the Dock, adapting to available space and giving you quick, clutter-free access to frequently used items. With Dockside, you can create quick notes, manage recent screenshots, and access your downloads—all in one simple, intuitive space. Dockside is always available when you need it, automatically fading out when you don’t, keeping Dock space clear and helping you stay focused. Choose between a subtle transparent theme or a Dock-style theme to match the Dock, with an option to enable auto-hiding.
+Dockside is your friendly file shelf app for Mac, designed to keep your essentials close in a way that feels simple, flexible, and out of the way. It can live beside your Dock or independently of your Dock on any edge of your screen, making the most of unused space with remarkable customizability. With flexible drag zones, workflow automations, quick access to recent screenshots and downloads, and folder monitoring, Dockside creates a shelf that beautifully adapts to how you work.
 
 ![Dockside File Shelf App near Dock for Mac](https://hachipoo.com/IntroBanner.png)
 
