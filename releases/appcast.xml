@@ -5,12 +5,12 @@
         <item>
         <sparkle:fullReleaseNotesLink>https://github.com/PrajwalSD/Dockside/releases</sparkle:fullReleaseNotesLink>
         <sparkle:releaseNotesLink>https://hachipoo.com/Changelog.html</sparkle:releaseNotesLink>
-            <title>2.9.15</title>
-            <pubDate>Tue, 23 Jun 2026 22:43:44 +0100</pubDate>
-            <sparkle:version>2.9.15</sparkle:version>
-            <sparkle:shortVersionString>2.9.15</sparkle:shortVersionString>
+            <title>2.9.16</title>
+            <pubDate>Fri, 26 Jun 2026 06:55:04 +0100</pubDate>
+            <sparkle:version>2.9.16</sparkle:version>
+            <sparkle:shortVersionString>2.9.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://hachipoo.com/distributions/Dockside.dmg" length="26691515" type="application/octet-stream" sparkle:edSignature="AOuWts3g3VrD9UPJvIpEXFmKS5+JoBXwQqFvC53l+l0G4Y/o6iS6DECw+SbB6YKsa0UadtR7lCjoeHkEe28ACQ=="/>
+            <enclosure url="https://hachipoo.com/distributions/Dockside.dmg" length="26834556" type="application/octet-stream" sparkle:edSignature="1ZQ9K/xzRON/gWQSfs6ACjFAdjG2gj1TupdGlsVO2AwbrMyElRiA3ULuQ5osG2rfGbijeGnM/JceattDu9MkDQ=="/>
         </item>
     </channel>
 </rss>
